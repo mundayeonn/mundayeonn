@@ -4,7 +4,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/1060384508286877719/1073242028269375588/3b3b63c9e6313f.gif" />
 
-## ✨Teck Stack ✨
+## ✨Tec Stack ✨
 
 <div>
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/>
